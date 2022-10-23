@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<br />
+<br />
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/90147636/196043026-889ef667-028b-4ce6-93ce-3cba04eeea82.png" />
+  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+ <a href="https://github.com/YuriDevAT/sos-animals">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+</a>
+  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+</a>
+</p>
+
+<br />
+
+
+
