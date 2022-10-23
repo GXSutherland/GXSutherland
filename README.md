@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/90147636/196043026-889ef667-028b-4ce6-93ce-3cba04eeea82.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/90147636/193416372-19482066-9d71-4fa4-8885-433c1f3630a1.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/90147636/193416392-60cff0c1-8478-436e-8090-505d77a075fe.png" />
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
