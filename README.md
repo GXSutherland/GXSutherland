@@ -20,14 +20,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 <p align="center">
-  <img width="400" src="![image](https://user-images.githubusercontent.com/115806367/197393767-1b115b32-6fef-45b4-8c7d-6bf7a787a02c.png)" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
+  <img width="400" src="" />
+  <img width="400" src="" />
+ <a href="">
+  <img align="" " />
+
 </p>
 
 <br />
