@@ -14,17 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<br />
-<p>I was asked about these two projects a lot during my interviews - so check them out.</p>
-<br />
-<br />
-<p align="center">
-  <img width="400" src="" />
-  <img width="400" src="" />
- <a href="">
-  <img align="" " />
-
-</p>
-
-<br />
